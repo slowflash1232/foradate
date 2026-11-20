@@ -12,7 +12,7 @@ yesBtn.addEventListener("click", () => {
     question.innerHTML = "so you are invited to ''Cafe Delhi Heights'' at Sector 50🙈";
     giff.src="image/dance.gif";
     yesBtn.addEventListener("click", ()=>{
-        question.innerHTML="Thank You bubu!!!! date I will tell as soon as I come back, I love you soooooo muchhhh";
+        question.innerHTML="Thank You bubu!!! I love you soooooo muchhhh🥰";
         giff.src="image/gif2.gif";
         yesBtn.style.display="none";
     });
